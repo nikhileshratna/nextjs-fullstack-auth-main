@@ -19,7 +19,7 @@
         "eslint-config-next": "13.4.7",
         "jsonwebtoken": "^9.0.0",
         "mongoose": "^7.3.1",
-        "next": "^14.2.1-canary.3",
+        "next": "^14.2.1",
         "nodemailer": "^6.9.3",
         "postcss": "8.4.24",
         "react": "18.2.0",
@@ -243,9 +243,9 @@
       }
     },
     "node_modules/@next/env": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/env/-/env-14.2.1-canary.3.tgz",
-      "integrity": "sha512-R1E60qChyg7vTKVfB2eGveWwHcfj+TbmrYYPqRczh/X3nTCpy9S15t9HBVRqNE6D8ADPZjQ8kKABIBrclXJXkg=="
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/env/-/env-14.2.1.tgz",
+      "integrity": "sha512-qsHJle3GU3CmVx7pUoXcghX4sRN+vINkbLdH611T8ZlsP//grzqVW87BSUgOZeSAD4q7ZdZicdwNe/20U2janA=="
     },
     "node_modules/@next/eslint-plugin-next": {
       "version": "13.4.7",
@@ -256,9 +256,9 @@
       }
     },
     "node_modules/@next/swc-darwin-arm64": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.2.1-canary.3.tgz",
-      "integrity": "sha512-a6xDTosQdrB6ypFsWY0SW4BDRUegxnTFRT7x14ETuy85HudUMA/kXj0HY9O/uURYJzhwkYnXIi5d4MJX+FN2xQ==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.2.1.tgz",
+      "integrity": "sha512-kGjnjcIJehEcd3rT/3NAATJQndAEELk0J9GmGMXHSC75TMnvpOhONcjNHbjtcWE5HUQnIHy5JVkatrnYm1QhVw==",
       "cpu": [
         "arm64"
       ],
@@ -271,9 +271,9 @@
       }
     },
     "node_modules/@next/swc-darwin-x64": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-14.2.1-canary.3.tgz",
-      "integrity": "sha512-h3PHdfgD4gGX93qvuYAyJ0NRhpiEib+kyteNomeDlF2qk80o5xb+7RXEZlP75NLmE1ew7Jnems8Q8wkldDHIlw==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-14.2.1.tgz",
+      "integrity": "sha512-dAdWndgdQi7BK2WSXrx4lae7mYcOYjbHJUhvOUnJjMNYrmYhxbbvJ2xElZpxNxdfA6zkqagIB9He2tQk+l16ew==",
       "cpu": [
         "x64"
       ],
@@ -286,9 +286,9 @@
       }
     },
     "node_modules/@next/swc-linux-arm64-gnu": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.2.1-canary.3.tgz",
-      "integrity": "sha512-IyF1BzF6tozm+y9MivK7PZ16dqMdEZeVCkRLL+vNNKNeGmV9uHre+rhRr8nyYdrk9iDDRxcg2HpfbL2yHmOieA==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.2.1.tgz",
+      "integrity": "sha512-2ZctfnyFOGvTkoD6L+DtQtO3BfFz4CapoHnyLTXkOxbZkVRgg3TQBUjTD/xKrO1QWeydeo8AWfZRg8539qNKrg==",
       "cpu": [
         "arm64"
       ],
@@ -301,9 +301,9 @@
       }
     },
     "node_modules/@next/swc-linux-arm64-musl": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.2.1-canary.3.tgz",
-      "integrity": "sha512-2QKItTCfiFgjJ2QUXm4BU4NeHoZZZ3m4WpWEc8zsca8ZN3zEq3t02uPmHi/MIsZqA8XqHNGqXMlO9mLnTxBsyg==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.2.1.tgz",
+      "integrity": "sha512-jazZXctiaanemy4r+TPIpFP36t1mMwWCKMsmrTRVChRqE6putyAxZA4PDujx0SnfvZHosjdkx9xIq9BzBB5tWg==",
       "cpu": [
         "arm64"
       ],
@@ -316,9 +316,9 @@
       }
     },
     "node_modules/@next/swc-linux-x64-gnu": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.1-canary.3.tgz",
-      "integrity": "sha512-BbMSoR5qATkMQK5BAl7OGuJz29rblmSW1plrVSIoZYtNsmN580ma7gpgwuZH5jULsK/qSyxQisvwuuOXtZ2Bww==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.1.tgz",
+      "integrity": "sha512-VjCHWCjsAzQAAo8lkBOLEIkBZFdfW+Z18qcQ056kL4KpUYc8o59JhLDCBlhg+hINQRgzQ2UPGma2AURGOH0+Qg==",
       "cpu": [
         "x64"
       ],
@@ -331,9 +331,9 @@
       }
     },
     "node_modules/@next/swc-linux-x64-musl": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.1-canary.3.tgz",
-      "integrity": "sha512-mbLmyPW3Bwvfflr4c5WVXJ/5mW0E12LEbbfzKkldju/U1zCXhvoyClvKyxnnUEWT37exjGwiIM1kM3BZGnN7tw==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.1.tgz",
+      "integrity": "sha512-7HZKYKvAp4nAHiHIbY04finRqjeYvkITOGOurP1aLMexIFG/1+oCnqhGogBdc4lao/lkMW1c+AkwWSzSlLasqw==",
       "cpu": [
         "x64"
       ],
@@ -346,9 +346,9 @@
       }
     },
     "node_modules/@next/swc-win32-arm64-msvc": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.2.1-canary.3.tgz",
-      "integrity": "sha512-8nXmMXfmpU5piRzgB6ya2RSyugoDmqOMwPqUExdKSDPPzGFgrnT4KXh/OemQHQWgrQfdvD7KjWeCF9PmUIOYGg==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.2.1.tgz",
+      "integrity": "sha512-YGHklaJ/Cj/F0Xd8jxgj2p8po4JTCi6H7Z3Yics3xJhm9CPIqtl8erlpK1CLv+HInDqEWfXilqatF8YsLxxA2Q==",
       "cpu": [
         "arm64"
       ],
@@ -361,9 +361,9 @@
       }
     },
     "node_modules/@next/swc-win32-ia32-msvc": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.2.1-canary.3.tgz",
-      "integrity": "sha512-1nQlczNF3xR5ZQa7Hs+//cRxxGk2izeiWljrJs8jGfWXa3+piElNji7mjmW+PCM7V2P3fjuqwyoa1SE2AO1OsQ==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.2.1.tgz",
+      "integrity": "sha512-o+ISKOlvU/L43ZhtAAfCjwIfcwuZstiHVXq/BDsZwGqQE0h/81td95MPHliWCnFoikzWcYqh+hz54ZB2FIT8RA==",
       "cpu": [
         "ia32"
       ],
@@ -376,9 +376,9 @@
       }
     },
     "node_modules/@next/swc-win32-x64-msvc": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.1-canary.3.tgz",
-      "integrity": "sha512-FDaGZar2iROhdQVc2WuNEmBUv9/cpC3Z34fAPBkRXUBHLfv5AcTBvbnb65HYFj00usqAfkODmC5zRH+2aa3Y4Q==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.1.tgz",
+      "integrity": "sha512-GmRoTiLcvCLifujlisknv4zu9/C4i9r0ktsA8E51EMqJL4bD4CpO7lDYr7SrUxCR0tS4RVcrqKmCak24T0ohaw==",
       "cpu": [
         "x64"
       ],
@@ -3352,11 +3352,11 @@
       "integrity": "sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw=="
     },
     "node_modules/next": {
-      "version": "14.2.1-canary.3",
-      "resolved": "https://registry.npmjs.org/next/-/next-14.2.1-canary.3.tgz",
-      "integrity": "sha512-GB20WhYE3a5DzvDs6NiqXg0jh6C9FcrBhcYz6G2DFxnSGdUdgksruybpRgIrE/37DUyeUjZcURieBxpqtckCJg==",
+      "version": "14.2.1",
+      "resolved": "https://registry.npmjs.org/next/-/next-14.2.1.tgz",
+      "integrity": "sha512-SF3TJnKdH43PMkCcErLPv+x/DY1YCklslk3ZmwaVoyUfDgHKexuKlf9sEfBQ69w+ue8jQ3msLb+hSj1T19hGag==",
       "dependencies": {
-        "@next/env": "14.2.1-canary.3",
+        "@next/env": "14.2.1",
         "@swc/helpers": "0.5.5",
         "busboy": "1.6.0",
         "caniuse-lite": "^1.0.30001579",
@@ -3371,15 +3371,15 @@
         "node": ">=18.17.0"
       },
       "optionalDependencies": {
-        "@next/swc-darwin-arm64": "14.2.1-canary.3",
-        "@next/swc-darwin-x64": "14.2.1-canary.3",
-        "@next/swc-linux-arm64-gnu": "14.2.1-canary.3",
-        "@next/swc-linux-arm64-musl": "14.2.1-canary.3",
-        "@next/swc-linux-x64-gnu": "14.2.1-canary.3",
-        "@next/swc-linux-x64-musl": "14.2.1-canary.3",
-        "@next/swc-win32-arm64-msvc": "14.2.1-canary.3",
-        "@next/swc-win32-ia32-msvc": "14.2.1-canary.3",
-        "@next/swc-win32-x64-msvc": "14.2.1-canary.3"
+        "@next/swc-darwin-arm64": "14.2.1",
+        "@next/swc-darwin-x64": "14.2.1",
+        "@next/swc-linux-arm64-gnu": "14.2.1",
+        "@next/swc-linux-arm64-musl": "14.2.1",
+        "@next/swc-linux-x64-gnu": "14.2.1",
+        "@next/swc-linux-x64-musl": "14.2.1",
+        "@next/swc-win32-arm64-msvc": "14.2.1",
+        "@next/swc-win32-ia32-msvc": "14.2.1",
+        "@next/swc-win32-x64-msvc": "14.2.1"
       },
       "peerDependencies": {
         "@opentelemetry/api": "^1.1.0",
